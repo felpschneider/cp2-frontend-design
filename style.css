@@ -20,7 +20,7 @@ header.navbar {
     filter: brightness(90%);
 }
 
-h2, h4 {
+h2, h3 {
     color: #856404;
 }
 
@@ -58,4 +58,9 @@ a:hover {
 
 #nav-img {
     height: 50px;
+}
+
+.btn-yellow:hover {
+    background-color: #ffb300;
+    border-color: #ffb300;
 }
