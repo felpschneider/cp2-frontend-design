@@ -1,0 +1,61 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #dbb80a; /* Um fundo amarelo bem claro */
+    color: #333;
+}
+
+header.navbar {
+    background-color: #fff7e6; /* Um tom de amarelo claro */
+}
+
+.navbar-brand, .nav-link {
+    color: #856404; /* Um tom de amarelo mais escuro para contraste */
+}
+
+.nav-link:hover {
+    color: #ffc107; /* Amarelo mais vibrante ao passar o mouse */
+}
+
+.carousel-item img {
+    filter: brightness(90%);
+}
+
+h2, h4 {
+    color: #856404;
+}
+
+.card {
+    background-color: #fff8e1; /* Fundo do card */
+    border: 1px solid #ffecb3; /* Borda amarela */
+}
+
+.card-title {
+    color: #856404;
+}
+
+.card-text {
+    color: #333;
+}
+
+section {
+    padding: 20px 0;
+}
+
+footer {
+    background-color: #fff7e6;
+    color: #856404;
+    padding: 10px 0;
+    text-align: center;
+}
+
+a {
+    color: #856404;
+}
+
+a:hover {
+    color: #ffc107;
+}
+
+#nav-img {
+    height: 50px;
+}
